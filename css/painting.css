@@ -80,6 +80,11 @@ h1 {
   margin: 0 10px;
 }
 
+h1 a, a:visited, a:hover {
+  text-decoration: none;
+  color: #888;
+}
+
 p {
   font-family: 'Inconsolata';
   font-size: small;
