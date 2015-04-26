@@ -3,8 +3,8 @@ title: Jolene Lai - Fine Artist
 email: enelojial@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Paintings and Illustrations by Jolene Lai
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.enelojial.com" # the base hostname & protocol for your site
+baseurl: "/gh-pages-test" # the subpath of your site, e.g. /blog/
+url: "http://mcwumbly.github.io" # the base hostname & protocol for your site
 twitter_username: enelojial
 
 # Build settings
