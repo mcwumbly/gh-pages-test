@@ -22,12 +22,14 @@ html, body {
 }
 
 h1 {
-  font-family: 'Cinzel', serif;
+  font-family: 'Lora', serif;
+  font-style: italic;
+  font-weight: lighter;
   margin: 0 10px;
 }
 
 p {
-  font-family: 'Inconsolata';
+  font-family: 'Lora';
   font-size: small;
   margin: 0 10px;
 }

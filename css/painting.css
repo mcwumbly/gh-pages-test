@@ -76,7 +76,9 @@ html, body {
 }
 
 h1 {
-  font-family: 'Cinzel', serif;
+  font-family: 'Lora', serif;
+  font-style: italic;
+  font-weight: lighter;
   margin: 0 10px;
 }
 
@@ -86,7 +88,7 @@ h1 a, a:visited, a:hover {
 }
 
 p {
-  font-family: 'Inconsolata';
+  font-family: 'Lora', serif;
   font-size: small;
   margin: 0 10px;
 }
