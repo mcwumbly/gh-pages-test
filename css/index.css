@@ -35,12 +35,10 @@ p {
 .col {
   border: 0px;
   float: left;
-  margin-left: 2%;
-  margin-top: 2%;
-  padding: 1.5%;
-  background-color: red;
-  width: 31%;
-  height: 248px;
+  margin: 2%;
+  width: 28%;
+  padding-top: 28%;
+  box-shadow: #999 3px 3px 8px 1px;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -63,15 +61,15 @@ p {
 
 @media all and (max-width: 400px) {
   .col {
-    width: 98%;
-    height: 392px;
+    width: 96%;
+  padding-top: 96%;
   }
 }
 
 @media all and (min-width: 401px) and (max-width: 600px) {
   .col {
-    width: 48%;
-    height: 288px;
+    width: 46%;
+    padding-top: 46%;
   }
 }
 
