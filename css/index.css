@@ -4,8 +4,8 @@ html, body {
 }
 
 .top {
-  width: 100%;
-  background-color: #FFF;
+  max-width: 800px;
+  margin: 0 auto;
   color: #888;
 }
 
@@ -25,7 +25,6 @@ h1 {
   font-family: 'Lora', serif;
   font-style: italic;
   font-weight: lighter;
-  margin: 0 10px;
 }
 
 p {
