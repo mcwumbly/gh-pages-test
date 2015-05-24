@@ -4,9 +4,83 @@ html, body {
 }
 
 .top {
+  width: 100%;
+  background-color: white;
+  box-shadow: 3px 3px 8px 1px rgba(0, 0, 0, 0.1);
+  color: #888;
+  position: fixed; 
+  z-index: 1;
+}
+
+.top h1 {
+  font-family: 'Lora', serif;
+  font-style: italic;
+  font-weight: lighter;
+  float: left;
+  margin: 10px 10px;
+}
+
+h2 {
+  font-style: italic;
+  font-weight: lighter;
+}
+
+h3 {
+  font-weight: lighter;
+}
+
+.top-left-nav {
+  float: right;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: lighter;
+  font-size: small;
+  color: #666;
+  margin-top: 17px;
+}
+
+.top-left-nav li {
+  display: block;
+  float: left;
+  margin: 0 6px;
+}
+
+.top-left-nav ul {
+  padding: 0;
+}
+
+.header {
+  width: 96%;
+  max-width: 768px;
+  margin: 0 auto;
+  overflow: auto;
+}
+
+.container {
   max-width: 800px;
   margin: 0 auto;
-  color: #888;
+  padding-top: 60px;
+}
+
+.post-content {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: lighter;
+  font-size: small;
+  line-height: 1.5;
+  color: #666;
+  margin: 10px;
+}
+
+.follow-jolene-lai {
+  overflow: auto;
+}
+
+.follow-jolene-lai li {
+  float: left;
+  margin: 0 10px;
+}
+
+li {
+  display: block;
 }
 
 .spacer {
@@ -21,24 +95,12 @@ html, body {
   max-height: 100%;
 }
 
-h1 {
-  font-family: 'Lora', serif;
-  font-style: italic;
-  font-weight: lighter;
-}
-
-p {
-  font-family: 'Lora';
-  font-size: small;
-  margin: 0 10px;
-}
-
 .col {
   border: 0px;
   float: left;
   margin: 2%;
-  width: 28%;
-  padding-top: 28%;
+  width: 29%;
+  padding-top: 29%;
   box-shadow: #999 3px 3px 8px 1px;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -52,11 +114,26 @@ p {
   max-width: 800px;
   margin: 0 auto;
   overflow: hidden;
+  padding-top: 60px;
 }
 
-@media all and (max-height: 400px) {
-  h1 {
-    font-size: 1em;
+a, a:visited {
+  text-decoration: none;
+  color: #888;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #000;
+}
+
+@media all and (max-width: 359px) {
+  .top h1 {
+    font-size: 1.5em
+  }
+
+  .top-left-nav {
+    margin-top: 8px
   }
 }
 

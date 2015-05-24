@@ -5,6 +5,24 @@
 
   <body>
 
+    <div class="top">
+      <div class="header">
+        <div class="top-left-nav">
+            <ul>
+                <li>
+                    <a href="{{ '/' | prepend: site.baseurl }}">Paintings</a>
+                </li>
+                <li>
+                    <a href="{{ '/illustrations' | prepend: site.baseurl }}">Illustrations</a>
+                </li>
+                <li>
+                    <a href="{{ '/about' | prepend: site.baseurl }}">About</a>
+                </li>
+            </ul>
+        </div>
+        <h1><a href="{{ '/' | prepend: site.baseurl }}">jolene lai</a></h1>
+      </div>
+    </div>
         {{ content }}
 
   </body>

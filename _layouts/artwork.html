@@ -1,26 +1,26 @@
 ---
 layout: base
 ---
-<div class="top">
-  <h1><a href="{{ index.html | prepend: site.baseurl }}">jolene lai</a></h1>
-</div>
+<div class="top-spacer"></div>
 <div class="main"> 
   <div class="nav">
     <a class="previous-artwork" href="{{ page.next.url | prepend: site.baseurl}}">
       <div class="nav-top"></div>
-      <i class="fa fa-chevron-left fa-5x"></i>
+      <i class="fa fa-chevron-left fa-2x"></i>
     </a>
     <a class="next-artwork" href="{{ page.previous.url | prepend: site.baseurl}}">
       <div class="nav-top"></div>
-      <i class="fa fa-chevron-right fa-5x"></i>
+      <i class="fa fa-chevron-right fa-2x"></i>
     </a>
   </div>
   <div class="wall">
-    <img class="artwork" src="{{ page.image_url}}">
+    <div class="frame">
+      <img class="artwork" src="{{ page.image_url}}">
+    </div>
+    <div class="bottom-spacer"></div>
+    <div class="bottom">
+      <p class="title">{{ page.title }}</p>
+      <p>{{ page.media }}  &bull;   {{ page.width }}" x {{ page.height }}"   &bull;   {{ page.date | date: "%Y" }}</p>
+    </div>
   </div>
-</div>
-<div class="spacer"></div>
-<div class="bottom">
-  <p class="title">{{ page.title }}</p>
-  <p>{{ page.media }}  &bull;   {{ page.width }}" x {{ page.height }}"   &bull;   {{ page.date | date: "%Y" }}</p>
 </div>
