@@ -158,7 +158,7 @@ p.title {
 
 @media all and (max-height: 400px) and (min-width: 400px) {
   .top {
-    width: 25%;
+    width: 28%;
     height: 100%;
     float: left;
     position: relative;
@@ -187,7 +187,7 @@ p.title {
 
   .top-spacer {
     height: 5%;
-    width: 75%;
+    width: 72%;
   }
 
   .main {
@@ -195,13 +195,13 @@ p.title {
   }
 
   .nav {
-    width: 75%;
+    width: 72%;
     height: 95%;
     margin-left: 25%;
   }
     
   .wall {
-    width: 75%;
+    width: 72%;
     float: left;
   }
 

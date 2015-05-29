@@ -6,8 +6,6 @@ permalink: /about/
 
 b. 1980.  Grew up in Singapore.  Currently residing and working in Los Angeles.
 
-## Follow Me
-
 If you'd like to get more regular updates about my work or upcoming exhibitions, <a href="http://eepurl.com/vymhP" target="_blank">sign up for my newsletter</a> or follow me in these other communities.
 
 <div class="follow-jolene-lai">
@@ -56,9 +54,9 @@ For other inquiries, email me at enelojial@gmail.com.
 
 ## Solo Exhibitions
 
-- 2014 - **Play**, Thinkspace Art Gallery, USA
-- 2013 - **After Midnight**, Thinkspace Art Gallery, USA
-- 2012 - **Allegory**, Galerie Sogan & Art, Singapore
+- **Play**, Thinkspace Art Gallery, USA (2014)
+- **After Midnight**, Thinkspace Art Gallery, USA (2013)
+- **Allegory**, Galerie Sogan & Art, Singapore (2012)
 
 ## Group Exhibitions
 
