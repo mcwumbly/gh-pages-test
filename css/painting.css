@@ -139,9 +139,8 @@ p {
 }
 
 p.title {
-  text-transform: uppercase;
   font-family: 'Open Sans', sans-serif;
-  font-size: large;
+  font-size: medium;
   margin: 0 10px;
   color: #666;
 }
