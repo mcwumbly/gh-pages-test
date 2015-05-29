@@ -6,7 +6,7 @@ permalink: /about/
 
 b. 1980.  Grew up in Singapore.  Currently residing and working in Los Angeles.
 
-If you'd like to get more regular updates about my work or upcoming exhibitions, <a href="http://eepurl.com/vymhP" target="_blank">sign up for my newsletter</a> or follow me in these other communities.
+If you'd like to get more regular updates about my work or upcoming exhibitions, <a href="http://eepurl.com/vymhP" target="_blank">sign up for my newsletter</a> or follow me in any of these communities below.  For other inquiries, email me at enelojial@gmail.com.
 
 <div class="follow-jolene-lai">
     <ul>
@@ -49,8 +49,6 @@ If you'd like to get more regular updates about my work or upcoming exhibitions,
         </li>
     </ul>
 </div>
-
-For other inquiries, email me at enelojial@gmail.com.
 
 ## Solo Exhibitions
 

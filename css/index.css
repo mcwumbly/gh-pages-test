@@ -22,6 +22,7 @@ html, body {
 
 h2 {
   font-weight: lighter;
+  font-size: large;
 }
 
 h3 {
@@ -78,9 +79,13 @@ strong {
   overflow: auto;
 }
 
+.follow-jolene-lai ul {
+  padding-left: 0;
+}
+
 .follow-jolene-lai li {
   float: left;
-  margin: 0 10px;
+  margin: 0 20px 0 0;
 }
 
 li {
