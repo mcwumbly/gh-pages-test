@@ -46,7 +46,7 @@ layout: base
   </div>
   <div class="wall">
     <div class="frame">
-      <img class="artwork" src="{{ page.image_url}}">
+      <img class="artwork" src="{{ page.image_url | prepend: site.baseurl }}" alt="{{ page.title }}, {{ page.media }}, {{ page.width }} x {{ page.height }}, Jolene Lai, {{ page.date | date: "%Y" }}">
     </div>
     <div class="bottom-spacer"></div>
     <div class="bottom">

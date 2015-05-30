@@ -8,7 +8,13 @@ permalink: /illustrations/
     {% for post in site.tags.illustrations %}
 
     <a href="{{ post.url | prepend: site.baseurl }}">
-      <div class="col" style="background-image: url({{ post.image_url }}); background-size: cover">
+      <div class="col" style="background-image: url(
+        {% if post.image_thumb_url %}
+          {{ post.image_thumb_url | prepend: site.baseurl }}
+        {% else %}
+          {{ post.image_url | prepend: site.baseurl }}
+        {% endif %}
+          ); background-size: cover">
       </div>
     </a>
     {% endfor %}
