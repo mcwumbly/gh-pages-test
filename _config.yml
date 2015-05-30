@@ -23,3 +23,7 @@ defaults:
       path: "paintings"
     values:
       categories: paintings
+
+gems:
+    - jekyll-redirect-from
+    - jekyll-sitemap
