@@ -9,3 +9,17 @@ twitter_username: enelojial
 
 # Build settings
 markdown: kramdown
+
+permalink: /:categories/:title
+
+defaults:
+  -
+    scope:
+      path: "illustrations"
+    values:
+      categories: illustrations
+  -
+    scope:
+      path: "paintings"
+    values:
+      categories: paintings
