@@ -5,15 +5,15 @@
   <meta name="description" content="{{ site.description }}">
 
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}">
+  <meta property="og:url" content="{{ '/' | prepend: page.url | prepend: site.baseurl | prepend: site.url }}">
   <meta property="og:description" content="{{ site.description }}">
   <meta property="og:title" content="{{ page.title }}">
   <meta property="og:site_name" content="{{ site.title }}">
-  <link rel="shortcut icon" href="{{ '/images/enelojial.ico' | prepend: site.baseurl }}" type="image/x-icon">
+  <link rel="shortcut icon" href="{{ '/images/enelojial.ico' | prepend: site.baseurl | prepend: site.url }}" type="image/x-icon">
   <link href='http://fonts.googleapis.com/css?family=Lora:400,400italic' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   <link rel="stylesheet" type="text/css" href="{{ '/css/index.css' | prepend: site.baseurl}}">
 </head>
-  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="canonical" href="{{ '/' | prepend: page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 </head>
