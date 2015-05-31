@@ -4,10 +4,6 @@ title: Jolene Lai
 permalink: /about/
 ---
 
-b. 1980.  Grew up in Singapore.  Currently residing and working in Los Angeles.
-
-If you'd like to get more regular updates about my work or upcoming exhibitions, <a href="http://eepurl.com/vymhP" target="_blank">sign up for my newsletter</a> or follow me in any of these communities below.  For other inquiries, email me at enelojial@gmail.com.
-
 <div class="follow-jolene-lai">
     <ul>
         <li>
@@ -41,14 +37,33 @@ If you'd like to get more regular updates about my work or upcoming exhibitions,
                 <i class="fa fa-2x fa-bookmark"></i>
             </a>
         </li>
-        -->
         <li>
             <a href="http://eepurl.com/vymhP" target="_blank">
                 <i class="fa fa-2x fa-envelope"></i>
             </a>
         </li>
+        -->
     </ul>
 </div>
+
+b. 1980.  Grew up in Singapore.  Currently residing and working in Los Angeles.
+
+If you'd like to get more regular updates about my work or upcoming exhibitions, sign up for my newsletter. You can also follow me in any of the communities above.  For other inquiries, email me at enelojial@gmail.com.
+
+<!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup">
+<form action="//enelojial.us2.list-manage.com/subscribe/post?u=07dd013ccaced3db7f84d0588&amp;id=2ff9f79ce5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	<label for="mce-EMAIL">Newsletter</label>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_07dd013ccaced3db7f84d0588_2ff9f79ce5" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
 
 ## Solo Exhibitions
 

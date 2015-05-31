@@ -23,6 +23,7 @@ html, body {
 h2 {
   font-weight: lighter;
   font-size: large;
+  margin-top: 20px;
 }
 
 h3 {
@@ -76,6 +77,7 @@ strong {
 }
 
 .follow-jolene-lai {
+  margin: 20px 0;
   overflow: auto;
 }
 
@@ -136,6 +138,33 @@ a:hover {
   color: #000;
 }
 
+#mc_embed_signup {
+  font-family: 'Open Sans',sans-serif;
+  background:#fff;
+  clear:left;
+}
+
+#mc_embed_signup form {
+  margin: 15px 0 40px 0;
+  padding: 10px 0;
+}
+
+#mc_embed_signup label {
+  font-family: 'Open Sans',sans-serif;
+  font-size: large;
+  font-weight: lighter;
+  color: #666;
+}
+
+#mc_embed_signup input.email {
+  font-size: medium;
+  width: 300px;
+}
+
+#mc_embed_signup input.button {
+  width: 300px;
+}
+
 @media all and (max-width: 359px) {
   .top h1 {
     font-size: 1.5em
@@ -150,6 +179,14 @@ a:hover {
   .col {
     width: 96%;
   padding-top: 96%;
+  }
+
+  #mc_embed_signup input.email {
+    width: 100%;
+  }
+
+  #mc_embed_signup input.button {
+    width: 100%;
   }
 }
 
