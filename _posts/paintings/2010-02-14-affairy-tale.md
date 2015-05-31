@@ -7,4 +7,5 @@ height: 12
 image_url: /images/paintings/affairy-tale.jpg
 date: 2010-02-14 05:00:00
 tags: paintings
+redirect_from: "/Paintings/Others/08-AffairyTale.html"
 ---

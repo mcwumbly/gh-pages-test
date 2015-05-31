@@ -7,4 +7,5 @@ height: 16
 image_url: /images/paintings/the-basement.jpg
 date: 2014-06-01
 tags: paintings thinkspace
+redirect_from: "/Paintings/2014/06-TheBasement.html"
 ---

@@ -7,4 +7,5 @@ height: 24
 image_url: /images/paintings/moonflies.jpg
 date: 2013-04-03 12:00:00
 tags: paintings thinkspace solo after-midnight
+redirect_from: "/Paintings/2013/03-Moonflies.html"
 ---
