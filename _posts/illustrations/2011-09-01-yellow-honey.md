@@ -1,7 +1,8 @@
 ---
 layout: artwork
 title: Yellow Honey
-media: Mixed Media on Watercolor Paper
+media: Mixed Media
+surface: Watercolor Paper
 width: 20.25
 height: 29.25
 image_url: /images/illustrations/yellow-honey.jpg

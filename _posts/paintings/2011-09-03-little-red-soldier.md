@@ -1,7 +1,8 @@
 ---
 layout: artwork
 title: Little Red Soldier
-media: Oil on Canvas
+media: Oil
+surface: Canvas
 width: 40
 height: 30
 image_url: /images/paintings/little-red-soldier.jpg

@@ -1,7 +1,8 @@
 ---
 layout: artwork
 title: My Mottled Shadows
-media: Oil on Canvas
+media: Oil
+surface: Canvas
 width: 31.5
 height: 31.5
 image_url: /images/paintings/my-mottled-shadows.jpg

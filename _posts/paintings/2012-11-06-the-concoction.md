@@ -1,7 +1,8 @@
 ---
 layout: artwork
 title: The Concoction
-media: Oil on Canvas
+media: Oil
+surface: Canvas
 width: 30
 height: 24
 image_url: /images/paintings/the-concoction.jpg

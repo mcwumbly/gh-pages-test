@@ -64,9 +64,21 @@ permalink: /about/
 </form>
 </div>
 
-b. 1980.  Grew up in Singapore.  Currently residing and working in Los Angeles.
+<div vocab="http://schema.org" typeof="Person">
+  <p><a href="http://www.enelojial.com" property="url">
+      www.<span property="brand" vocab="http://schema.org" typeof="Brand"><span property="name">enelojial</span></span>.com
+    </a> is the official website of
+    <span property="givenName">Jolene</span>
+    <span property="familyName">Lai</span>,  
+    <span property="jobTitle">Fine Artist and Illustrator</span>.
+  </p>
+  <p>b.
+  <span property="birthDate">1980</span>.  Grew up in
+  <span property="birthPlace">Singapore</span>.  Currently residing and working in
+  <span property="homeLocation">Los Angeles</span>.</p>
 
-If you'd like to get more regular updates about my work or upcoming exhibitions, sign up for my newsletter or follow me in any of the communities above. For other inquiries, email me at enelojial@gmail.com.
+  <p>If you'd like to get more regular updates about my work or upcoming exhibitions, sign up for my newsletter or follow me in any of the communities above. For other inquiries, email me at <span property="email">enelojial@gmail.com</span></a>.</p>
+</div>
 
 ## Solo Exhibitions
 

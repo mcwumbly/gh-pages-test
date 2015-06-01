@@ -1,7 +1,8 @@
 ---
 layout: artwork
 title: The Garden
-media: Oil and Acrylic on Canvas
+media: Oil and Acrylic
+surface: Canvas
 width: 24
 height: 30
 image_url: /images/paintings/the-garden.jpg

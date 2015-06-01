@@ -1,7 +1,8 @@
 ---
 layout: artwork
 title: Bubble Gum Joe
-media: Oil on Canvas
+media: Oil
+surface: Canvas
 width: 12
 height: 12
 image_url: /images/paintings/bubble-gum-joe.jpg

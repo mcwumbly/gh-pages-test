@@ -1,7 +1,8 @@
 ---
 layout: artwork
 title: Study for Heartbreaker
-media: Mixed Media on Watercolor Paper
+media: Mixed Media
+surface: Watercolor Paper
 width: 6
 height: 8
 image_url: /images/illustrations/study-for-heartbreaker.jpg

@@ -44,14 +44,25 @@ layout: base
       <i class="fa fa-chevron-right fa-2x"></i>
     </a>
   </div>
-  <div class="wall">
+  <div class="wall" vocab="http://schema.org" typeof="VisualArtwork">
     <div class="frame">
-      <img class="artwork" src="{{ page.image_url | prepend: site.baseurl }}" alt="{{ page.title }}, {{ page.media }}, {{ page.width }} x {{ page.height }}, Jolene Lai, {{ page.date | date: "%Y" }}">
+      <img property="image" class="artwork" src="{{ page.image_url | prepend: site.baseurl }}" alt="{{ page.title }}, {{ page.media }}, {{ page.width }} x {{ page.height }}, Jolene Lai, {{ page.date | date: "%Y" }}">
     </div>
     <div class="bottom-spacer"></div>
     <div class="bottom">
-      <p class="title">{{ page.title }}</p>
-      <p>{{ page.media }}  &bull;   {{ page.width }}" x {{ page.height }}"   &bull;   {{ page.date | date: "%Y" }}</p>
+      <p class="title" property="name">{{ page.title }}</p>
+      <p>
+        <span property="material">{{ page.media }}</span> on
+        <span property="surface">{{page.surface }}</span>  &bull;
+        <span property="width">{{ page.width }}"</span> x
+        <span property="height">{{ page.height }}"</span>   &bull;
+        <span property="copyrightHolder" vocab="http://schema.org" typeof="Person">
+          <a href="/about" property="url">
+            <span property="name">Jolene Lai</span>
+          </a>
+        </span>   &bull;
+        <span property="copyrightYear">{{ page.date | date: "%Y" }}</span>
+      </p>
     </div>
   </div>
 </div>

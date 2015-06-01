@@ -1,7 +1,8 @@
 ---
 layout: artwork
 title: Lolly Polly
-media: Oil on Canvas
+media: Oil
+surface: Canvas
 width: 40
 height: 30
 image_url: /images/paintings/lolly-polly.jpg

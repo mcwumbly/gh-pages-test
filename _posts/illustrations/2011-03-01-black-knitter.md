@@ -1,7 +1,8 @@
 ---
 layout: artwork
 title: Black Knitter
-media: Mixed Media on Watercolor Paper
+media: Mixed Media
+surface: Watercolor Paper
 width: 20.25
 height: 29.25
 image_url: /images/illustrations/black-knitter.jpg

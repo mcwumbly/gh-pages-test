@@ -1,7 +1,8 @@
 ---
 layout: artwork
 title: Broken Telephone
-media: Oil on Canvas
+media: Oil
+surface: Canvas
 width: 72
 height: 60
 image_url: /images/paintings/broken-telephone.jpg

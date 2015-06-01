@@ -1,7 +1,8 @@
 ---
 layout: artwork
 title: The Happy Worker
-media: Oil on Canvas
+media: Oil
+surface: Canvas
 width: 28
 height: 22
 image_url: /images/paintings/the-happy-worker.jpg

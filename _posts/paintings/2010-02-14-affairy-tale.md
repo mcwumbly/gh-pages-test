@@ -1,7 +1,8 @@
 ---
 layout: artwork
 title: Affairy Tale
-media: Oil on Canvas
+media: Oil
+surface: Canvas
 width: 24
 height: 12
 image_url: /images/paintings/affairy-tale.jpg

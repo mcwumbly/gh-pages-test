@@ -1,7 +1,8 @@
 ---
 layout: artwork
 title: Hello Fish
-media: Oil on Canvas
+media: Oil
+surface: Canvas
 width: 40
 height: 30
 image_url: /images/paintings/hello-fish.jpg

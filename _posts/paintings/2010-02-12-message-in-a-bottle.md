@@ -1,7 +1,8 @@
 ---
 layout: artwork
 title: Message in a Bottle
-media: Oil on Canvas
+media: Oil
+surface: Canvas
 width: 12
 height: 12
 image_url: /images/paintings/message-in-a-bottle.jpg

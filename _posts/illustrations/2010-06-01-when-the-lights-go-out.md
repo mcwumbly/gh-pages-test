@@ -1,7 +1,8 @@
 ---
 layout: artwork
 title: When the Lights Go Out
-media: Mixed Media on Watercolor Paper
+media: Mixed Media
+surface: Watercolor Paper
 width: 32
 height: 15
 image_url: /images/illustrations/when-the-lights-go-out.jpg

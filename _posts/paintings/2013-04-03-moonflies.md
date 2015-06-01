@@ -1,7 +1,8 @@
 ---
 layout: artwork
 title: Moonflies
-media: Oil on Canvas
+media: Oil
+surface: Canvas
 width: 30
 height: 24
 image_url: /images/paintings/moonflies.jpg

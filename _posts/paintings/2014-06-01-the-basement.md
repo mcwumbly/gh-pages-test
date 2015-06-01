@@ -1,7 +1,8 @@
 ---
 layout: artwork
 title: The Basement
-media: Oil on Wood Panel
+media: Oil
+surface: Wood Panel
 width: 16
 height: 16
 image_url: /images/paintings/the-basement.jpg

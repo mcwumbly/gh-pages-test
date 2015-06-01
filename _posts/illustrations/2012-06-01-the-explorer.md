@@ -1,7 +1,8 @@
 ---
 layout: artwork
 title: The Explorer
-media: Mixed Media on Watercolor Paper
+media: Mixed Media
+surface: Watercolor Paper
 width: 7
 height: 9
 image_url: /images/illustrations/the-explorer.jpg

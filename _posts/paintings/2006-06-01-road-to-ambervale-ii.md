@@ -1,7 +1,8 @@
 ---
 layout: artwork
 title: Road to Ambervale II
-media: Oil on Canvas
+media: Oil
+surface: Canvas
 width: 16
 height: 16
 image_url: /images/paintings/road-to-ambervale-ii.jpg

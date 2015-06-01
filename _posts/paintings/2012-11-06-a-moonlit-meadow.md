@@ -1,7 +1,8 @@
 ---
 layout: artwork
 title: A Moonlit Meadow
-media: Oil on Canvas
+media: Oil
+surface: Canvas
 width: 40
 height: 30
 image_url: /images/paintings/a-moonlit-meadow.jpg

@@ -1,7 +1,8 @@
 ---
 layout: artwork
 title: The Butcher
-media: Oil on Canvas
+media: Oil
+surface: Canvas
 width: 48
 height: 36
 image_url: /images/paintings/the-butcher.jpg

@@ -1,7 +1,8 @@
 ---
 layout: artwork
 title: Migration
-media: Oil and Acrylic on Canvas
+media: Oil and Acrylic
+surface: Canvas
 width: 30
 height: 40
 image_url: /images/paintings/migration.jpg

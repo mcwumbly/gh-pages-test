@@ -1,7 +1,8 @@
 ---
 layout: artwork
 title: Ms Lugubrious
-media: Oil on Canvas
+media: Oil
+surface: Canvas
 width: 43
 height: 31
 image_url: /images/paintings/ms-lugubrious.jpg
