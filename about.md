@@ -2,6 +2,7 @@
 layout: page
 title: Jolene Lai
 permalink: /about/
+redirect_from: /about.html
 ---
 
 <div class="logo">
