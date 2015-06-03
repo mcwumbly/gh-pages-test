@@ -131,18 +131,18 @@ a:hover {
   text-align: right;
 }
 
-p {
-  font-family: 'Open Sans', sans-serif;
-  font-size: small;
-  margin: 0 10px;
-  color: #999;
-}
-
 p.title {
   font-family: 'Open Sans', sans-serif;
   font-size: medium;
   margin: 0 10px;
   color: #666;
+}
+
+p.description {
+  font-family: 'Open Sans', sans-serif;
+  font-size: small;
+  margin: 0 10px;
+  color: #999;
 }
 
 @media all and (max-width: 359px) {
@@ -152,6 +152,14 @@ p.title {
 
   .top-left-nav {
     margin-top: 12px
+  }
+
+  .bottom-spacer {
+    height: 0;
+  }
+
+  p.description {
+    font-size: x-small;
   }
 }
 
