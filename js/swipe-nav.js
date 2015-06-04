@@ -7,14 +7,14 @@ var isZoomed = function() {
 };
 
 // listen to events...
-mc.on("panleft", function(ev) {
+mc.on("swipeleft", function(ev) {
   if (isZoomed()) {
     return;
   }
   var link = document.getElementsByClassName('next-artwork')[0].href
   window.location.href = link;
 });
-mc.on("panright", function(ev) {
+mc.on("swiperight", function(ev) {
   if (isZoomed()) {
     return;
   }
