@@ -1,0 +1,4 @@
+- create one main stylesheet
+- compile/compress css using sass
+- update title / description
+- transform on swipe?

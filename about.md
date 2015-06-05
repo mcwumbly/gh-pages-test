@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Jolene Lai
 permalink: /about/
 redirect_from: /about.html

@@ -1,0 +1,295 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Our variables
+$full: 100%;
+
+$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-size:   16px;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #2a7ae2;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// mixins
+@mixin drop-shadow($left:3px, $top:3px, $blur:8px, $spread:1px, $color:rgba(0,0,0,0.1), $inset:"") {
+      -webkit-box-shadow:$left $top $blur $spread $color #{$inset};
+      -moz-box-shadow:$left $top $blur $spread $color #{$inset};
+      box-shadow:$left $top $blur $spread $color #{$inset};
+}
+
+@mixin card() {
+  @include drop-shadow(3px, 3px, 8px, 1px, #999);
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-background-clip: padding-box !important;
+  -moz-background-clip: padding-box !important;
+  background-clip: padding-box !important;
+}
+
+@mixin mobile-portrait() {
+  @media all and (max-width: 359px) {
+    @content;
+  }
+}
+
+@mixin mobile-landscape() {
+  @media all and (max-height: 400px) and (min-width: 400px) {
+    @content;
+  }
+}
+
+html, body {
+  padding: 0;
+  margin: 0;
+
+  &.artwork-page {
+    height: 100%;
+    width: 100%;
+  }
+}
+
+.main-nav {
+  width: 100%;
+  background-color: white;
+  color: #888;
+  position: fixed;
+  z-index: 1;
+  @include drop-shadow();
+  h1 {
+    font-family: 'Ek Mukta', sans-serif;
+    font-weight: lighter;
+    font-size: 1.7em;
+    float: left;
+    margin: 10px 6px;
+    @include mobile-portrait() {
+      font-size: 1.5em;
+    }
+  }
+
+  .nav-links {
+    float: right;
+    font-family: sans-serif;
+    font-weight: lighter;
+    font-size: small;
+    color: #666;
+    margin-top: 15px;
+    @include mobile-portrait() {
+      margin-top: 12px;
+    }
+
+    ul {
+      padding: 0;
+      li {
+      display: block;
+      float: left;
+      margin: 0 6px;
+      }
+    }
+  }
+
+  .header {
+    width: 96%;
+    max-width: 768px;
+    margin: 0 auto;
+    overflow: auto;
+  }
+
+  &.rotate {
+    @include mobile-landscape() {
+      width: 28%;
+      height: 100%;
+      float: left;
+      position: relative;
+      h1 {
+        display: block;
+      }
+      .nav-links {
+        float: left;
+        display: block;
+        line-height: 1.5em;
+      }
+      ul {
+        float: left;
+        li {
+          float: none;
+          line-height: 2em;
+        }
+      }
+    }
+  }
+
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding-top: 60px;
+  .content {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+    font-size: small;
+    line-height: 1.5;
+    color: #666;
+    margin: 10px;
+    .row {
+      max-width: 800px;
+      margin: 0 auto;
+      overflow: hidden;
+    }
+    .col {
+      border: 0px;
+      float: left;
+      margin: 2%;
+      width: 29%;
+      padding-top: 29%;
+      @include card();
+    }
+  }
+}
+
+a {
+  text-decoration: none;
+  color: #888;
+
+  &:visited {
+  }
+
+  &:hover {
+    color: #000;
+  }
+}
+
+.bottom {
+  width: 100%;
+  height: 10%;
+  background-color: #FFF;
+  text-align: center;
+  color: #222;
+  @include mobile-landscape() {
+    height: 15%;
+  }
+}
+
+.top-spacer {
+  width: 100%;
+  height: 15%;
+  @include mobile-landscape() {
+    height: 2.5%;
+    width: 72%;
+  }
+}
+
+.bottom-spacer {
+  width: 100%;
+  height: 2.5%;
+
+  @include mobile-portrait() {
+    height: 0;
+  }
+  @include mobile-landscape() {
+    height: 0;
+  }
+}
+
+.main {
+  width: 100%;
+  height: 85%;
+  @include mobile-landscape() {
+    height: 95%;
+  }
+}
+
+.wall {
+  width: 100%;
+  height: 100%;
+  @include mobile-landscape() {
+    width: 72%;
+    float: left;
+  }
+}
+
+.frame {
+  width: 100%;
+  height: 87.5%;
+  @include mobile-landscape() {
+    height: 85%;
+  }
+}
+
+.artwork {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.nav {
+  width: 100%;
+  height: 85%;
+  position: absolute;
+  @include mobile-landscape() {
+    width: 72%;
+    height: 95%;
+    margin-left: 25%;
+  }
+
+  a {
+    opacity: 0;
+    color: #999;
+
+    &:hover {
+      opacity: 1;
+    }
+  }
+}
+
+.nav-top {
+  height: 45%;
+}
+
+%artwork-nav {
+  width: 50%;
+  height: 100%;
+  float: left;
+}
+
+.previous-artwork {
+  @extend %artwork-nav;
+  text-align: left;
+}
+
+.next-artwork {
+  @extend %artwork-nav;
+  text-align: right;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0 10px;
+
+  &.title {
+    font-size: medium;
+    color: #666;
+  }
+
+  &.description {
+    font-size: small;
+    color: #999;
+
+    @include mobile-portrait() {
+      font-size: x-small;
+    }
+  }
+}

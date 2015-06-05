@@ -1,4 +1,4 @@
-html, body {
+.default-page {
   padding: 0;
   margin: 0;
 }
@@ -67,7 +67,7 @@ strong {
   padding-top: 60px;
 }
 
-.post-content {
+.content {
   font-family: 'Open Sans', sans-serif;
   font-weight: lighter;
   font-size: small;
@@ -135,7 +135,6 @@ li {
   max-width: 800px;
   margin: 0 auto;
   overflow: hidden;
-  padding-top: 60px;
 }
 
 a, a:visited {
