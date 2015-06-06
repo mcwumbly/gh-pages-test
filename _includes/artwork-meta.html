@@ -1,6 +1,6 @@
 <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1">
 <meta name="description" content="{{ page.title }}, {{ page.media }}, {{page.width}}in x {{ page.height }}in, {{ page.date | date: '%Y' }}">
-<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+<title>{% if page.title %}{{ site.title | prepend: ' | ' | prepend: page.title }}{% else %}{{ site.title }}{% endif %}</title>
 <meta property="og:url" content="{{ '/' | prepend: page.url | prepend: site.baseurl | prepend: site.url }}">
 <meta property="og:title" content="{{ page.title }}">
 <meta property="og:description" content="{{ page.title }}, {{ page.media }} on {{ page.surface }}, {{page.width}}in x {{ page.height }}in, Jolene Lai, {{ page.date | date: '%Y' }}">
