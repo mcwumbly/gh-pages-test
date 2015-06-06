@@ -69,8 +69,9 @@ redirect_from: /about.html
   <p><a href="http://www.enelojial.com" property="url">
       www.<span property="brand" vocab="http://schema.org" typeof="Brand"><span property="name">enelojial</span></span>.com
     </a> is the official website of
+    <span property="name">
     <span property="givenName">Jolene</span>
-    <span property="familyName">Lai</span>,  
+    <span property="familyName">Lai</span></span>,  
     <span property="jobTitle">Fine Artist and Illustrator</span>.
   </p>
   <p>b.
