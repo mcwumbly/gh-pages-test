@@ -21,13 +21,13 @@
 }
 
 @mixin mobile-portrait() {
-  @media all and (max-width: 359px) {
+  @media all and (max-width: 415px) {
     @content;
   }
 }
 
 @mixin mobile-landscape() {
-  @media all and (max-height: 400px) and (min-width: 400px) {
+  @media all and (max-height: 415px) and (min-width: 400px) {
     @content;
   }
 }
@@ -88,9 +88,9 @@ html, body {
     ul {
       padding: 0;
       li {
-      display: block;
-      float: left;
-      margin: 0 6px;
+        display: block;
+        float: left;
+        margin: 0 6px;
       }
     }
   }
@@ -115,6 +115,7 @@ html, body {
         float: left;
         display: block;
         line-height: 1.5em;
+        clear: both;
       }
       ul {
         float: left;
