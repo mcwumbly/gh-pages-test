@@ -92,6 +92,9 @@ redirect_from: /about.html
 
 ### 2015
 
+- **LAX/DTW**, Inner State Gallery, USA (Thinkspace Art Gallery)
+- **SCOPE New York**, SCOPE Pavilion, USA (Thinkspace Art Gallery)
+- **Art Stage Singapore**, Marina Bay Sands, Singapore (Galerie Sogan & Art)
 - **La Familia**, Thinkspace Art Gallery, USA
 
 ### 2014
