@@ -92,6 +92,7 @@ redirect_from: /about.html
 
 ### 2015
 
+- **LAX/LHR**, StolenSpace Gallery, United Kingdom (Thinkspace Art Gallery)
 - **Invisible College at the Fort Wayne Museum Of Art**, Fort Wayne Museum of Art, USA (Thinkspace Art Gallery)
 - **LAX/DTW**, Inner State Gallery, USA (Thinkspace Art Gallery)
 - **SCOPE New York**, SCOPE Pavilion, USA (Thinkspace Art Gallery)
