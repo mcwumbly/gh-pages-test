@@ -129,7 +129,7 @@ redirect_from: /about.html
 
 ### 2010
 
-- **Process** J+K Gallery, USA
+- **Process**, J+K Gallery, USA
 
 ### 2009
 
