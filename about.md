@@ -90,6 +90,10 @@ redirect_from: /about.html
 
 ## Group Exhibitions
 
+### 2016
+
+- **SCOPE New York**, SCOPE Pavilion, USA (Thinkspace Art Gallery)
+
 ### 2015
 
 - **LAX/LHR**, StolenSpace Gallery, United Kingdom (Thinkspace Art Gallery)
