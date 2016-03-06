@@ -35,11 +35,11 @@ layout: artwork-base
 <div class="top-spacer"></div>
 <div class="main">
   <div class="nav" id="nav">
-    <a class="previous-artwork" href="{{ '/' | prepend: next_artwork | prepend: site.baseurl}}">
+    <a class="previous-artwork" href="{{ next_artwork | prepend: site.baseurl}}">
       <div class="nav-top"></div>
       <i class="fa fa-chevron-left fa-2x"></i>
     </a>
-    <a class="next-artwork" href="{{ '/' | prepend: prev_artwork | prepend: site.baseurl}}">
+    <a class="next-artwork" href="{{ prev_artwork | prepend: site.baseurl}}">
       <div class="nav-top"></div>
       <i class="fa fa-chevron-right fa-2x"></i>
     </a>
