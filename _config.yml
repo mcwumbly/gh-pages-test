@@ -15,14 +15,14 @@ permalink: /:categories/:title/
 defaults:
   -
     scope:
-      path: "illustrations"
+      path: "_posts/illustrations"
     values:
-      categories: illustrations
+      category: "illustrations"
   -
     scope:
-      path: "paintings"
+      path: "_posts/paintings"
     values:
-      categories: paintings
+      category: "paintings"
 
 gems:
     - jekyll-redirect-from
