@@ -79,7 +79,7 @@ redirect_from: /about.html
   <span property="birthPlace">Singapore</span>.  Currently residing and working in
   <span property="homeLocation">Los Angeles</span>.</p>
 
-  <p>If you'd like to get more regular updates about my work or upcoming exhibitions, sign up for my newsletter or follow me in any of the communities above. For other inquiries, email me at <span property="email">enelojial@gmail.com</span></a>.</p>
+  <p>If you'd like to get more regular updates about my work or upcoming exhibitions, sign up for my newsletter or follow me in any of the communities above. For other inquiries, email me at <span property="email">enelojial@gmail.com</span>.</p>
 </div>
 
 ## Solo Exhibitions
