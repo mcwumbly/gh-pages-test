@@ -92,6 +92,7 @@ redirect_from: /about.html
 
 ### 2016
 
+- **SCOPE Miami Beach**, SCOPE Pavilion, USA (Thinkspace Art Gallery)
 - **SCOPE New York**, SCOPE Pavilion, USA (Thinkspace Art Gallery)
 
 ### 2015
