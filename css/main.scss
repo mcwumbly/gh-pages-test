@@ -85,12 +85,12 @@ html, body {
       font-family: sans-serif;
       font-weight: lighter;
       line-height: 1.5;
-      font-size: large;
+      font-size: larger;
       color: #666;
       margin-top: 0;
       margin-right: -10px;
       background-color: #FFF;
-      opacity: 0.9;
+      opacity: 0.95;
       width: 0px;
       height: 100%;
       transition: width 0.2s;
@@ -168,7 +168,7 @@ html, body {
       float: right;
       font-family: sans-serif;
       font-weight: lighter;
-      font-size: small;
+      font-size: medium;
       color: #666;
       margin-top: 15px;
       @include mobile-portrait() {
@@ -204,6 +204,7 @@ html, body {
         float: left;
         display: block;
         line-height: 1.5em;
+        font-size: medium;
         clear: both;
         ul {
           float: left;
@@ -255,7 +256,7 @@ html, body {
 
 a {
   text-decoration: none;
-  color: #888;
+  color: #666;
 
   &:visited {
   }
