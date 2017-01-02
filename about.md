@@ -9,50 +9,6 @@ redirect_from: /about.html
   <img src="/images/enelojial.jpg" alt="enelojial hello fish logo">
 </div>
 
-<!--End mc_embed_signup-->
-
-<div class="follow-jolene-lai">
-    <ul>
-        <li>
-            <a href="http://instagram.com/enelojial" target="_blank">
-                <i class="fa fa-2x fa-instagram"></i>
-            </a>
-        </li>
-        <li>
-            <a href="http://enelojial.tumblr.com/" target="_blank">
-                <i class="fa fa-2x fa-tumblr"></i>
-            </a>
-        </li>
-        <li>
-            <a href="https://twitter.com/enelojial" target="_blank">
-                <i class="fa fa-2x fa-twitter"></i>
-            </a>
-        </li>
-        <li>
-            <a href="https://www.facebook.com/enelojial" target="_blank">
-                <i class="fa fa-2x fa-facebook"></i>
-            </a>
-        </li>
-        <!--
-        <li>
-            <a href="http://www.behance.net/enelojial" target="_blank">
-                <i class="fa fa-2x fa-behance"></i>
-            </a>
-        </li>
-        <li>
-            <a href="http://http://enelojial.blogspot.com/" target="_blank">
-                <i class="fa fa-2x fa-bookmark"></i>
-            </a>
-        </li>
-        <li>
-            <a href="http://eepurl.com/vymhP" target="_blank">
-                <i class="fa fa-2x fa-envelope"></i>
-            </a>
-        </li>
-        -->
-    </ul>
-</div>
-
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
 <form action="//enelojial.us2.list-manage.com/subscribe/post?u=07dd013ccaced3db7f84d0588&amp;id=2ff9f79ce5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
