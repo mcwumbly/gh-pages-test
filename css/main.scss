@@ -56,12 +56,81 @@ html, body {
   }
 }
 
+.nav-container {
+  display: none;
+  .nav-links {
+    display: none;
+  }
+}
+.overlay {
+  display: none;
+}
+.hamburger {
+  position: fixed;
+  clip: rect(0, 0, 0, 0);
+}
+
+@include mobile-portrait() {
+  .nav-container {
+    display: block;
+    margin-top: 60px;
+    transition-delay: 0.2s;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    .nav-links {
+      display: block;
+      float: right;
+      font-family: sans-serif;
+      font-weight: lighter;
+      line-height: 1.5;
+      font-size: large;
+      color: #666;
+      margin-top: 0;
+      margin-right: -10px;
+      background-color: #FFF;
+      opacity: 0.9;
+      width: 0px;
+      height: 100%;
+      transition: width 0.2s;
+      overflow: hidden;
+
+      ul {
+        padding: 0;
+        li {
+          display: block;
+          margin: 0 10px;
+        }
+      }
+    }
+  }
+
+  .hamburger:checked ~ .nav-container {
+    z-index: 200;
+    transition: z-index;
+  }
+  .hamburger:checked ~ .nav-container .nav-links {
+    width: 200px;
+  }
+  .hamburger:checked ~ .overlay {
+    display: block;
+    position: fixed;
+    margin-top: 60px;
+    width: 100%;
+    height: 100%;
+    z-index: 100;
+    background-color: #000;
+    opacity: 0.5;
+  }
+}
+
 .main-nav {
   width: 100%;
   background-color: white;
   color: #888;
   position: fixed;
-  z-index: 1;
+  z-index: 300;
   @include drop-shadow();
   h1 {
     font-family: 'Ek Mukta', sans-serif;
@@ -74,17 +143,39 @@ html, body {
     }
   }
 
-  .nav-links {
-    float: right;
-    font-family: sans-serif;
-    font-weight: lighter;
-    font-size: small;
-    color: #666;
-    margin-top: 15px;
-    @include mobile-portrait() {
-      margin-top: 12px;
+  @include mobile-portrait() {
+    label[for="hamburger"] {
+      /* critical positioning styles */
+      float: right;
+      margin-right: 15px; margin-top: 20px;
+      z-index: 300;
+      /* non-critical apperance styles */
+      height: 20px;
+      width: 20px;
+      cursor: pointer;
+      color: #666;
+      background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1' x='0px' y='0px' width='20px' height='20px' viewBox='0 0 20 20' fill='#666' enable-background='new 0 0 30 30' xml:space='preserve'><rect width='20' height='4'/><rect y='8' width='20' height='4'/><rect y='16' width='20' height='4'/></svg>");
+      background-size: contain;
     }
+  }
 
+  .header {
+    width: 96%;
+    max-width: 768px;
+    margin: 0 auto;
+    overflow: auto;
+    .nav-links {
+      float: right;
+      font-family: sans-serif;
+      font-weight: lighter;
+      font-size: small;
+      color: #666;
+      margin-top: 15px;
+      @include mobile-portrait() {
+        display: none;
+        margin-top: 12px;
+      }
+    }
     ul {
       padding: 0;
       li {
@@ -94,16 +185,11 @@ html, body {
       }
     }
   }
+}
 
-  .header {
-    width: 96%;
-    max-width: 768px;
-    margin: 0 auto;
-    overflow: auto;
-  }
-
-  &.rotate {
-    @include mobile-landscape() {
+.artwork-page {
+  @include mobile-landscape() {
+    .main-nav {
       width: 28%;
       height: 100%;
       float: left;
@@ -111,22 +197,24 @@ html, body {
       h1 {
         display: block;
       }
+      label[for="hamburger"] {
+        display: none;
+      }
       .nav-links {
         float: left;
         display: block;
         line-height: 1.5em;
         clear: both;
-      }
-      ul {
-        float: left;
-        li {
-          float: none;
-          line-height: 2em;
+        ul {
+          float: left;
+          li {
+            float: none;
+            line-height: 2em;
+          }
         }
       }
     }
   }
-
 }
 
 .container {
