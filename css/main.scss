@@ -64,6 +64,7 @@ html, body {
 }
 .overlay {
   display: none;
+  z-index: -1;
 }
 .hamburger {
   position: fixed;
