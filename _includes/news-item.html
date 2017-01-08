@@ -1,0 +1,19 @@
+<div class="news-item">
+  <a href="{{ post.url | prepend: site.baseurl }}">
+    <h2><i>{{ post.title }}</i> - {{ post.show_type }}</h2>
+  </a>
+
+  <p>
+  Opening reception: {{ post.opening "}}<br/>
+  On view: {{ post.on_view }}<br/>
+  <a href="{{ post.link }}" target="_blank">
+    {{ post.venue }}
+  </a>, {{ post.location }}
+  </p>
+
+  <a href="{{ post.link }}" target="_blank">
+    <div class="show-card">
+      <img src="{{ post.image_url | prepend: site.baseurl }}"/>
+    </div>
+  </a>
+</div>

@@ -1,0 +1,13 @@
+---
+layout: default
+permalink: /news/
+---
+
+<div class="news">
+  {% for post in site.tags.news reversed %}
+    {% if post.current == true %}
+      {% include news-item.html %}
+    {% endif %}
+  {% endfor %}
+  <a href="/older/">Older...</a>
+</div>

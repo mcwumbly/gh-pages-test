@@ -11,6 +11,7 @@ twitter_username: enelojial
 markdown: kramdown
 
 permalink: /:categories/:title/
+future: true
 
 defaults:
   -
@@ -23,6 +24,12 @@ defaults:
       path: "_posts/paintings"
     values:
       category: "paintings"
+  -
+    scope:
+      path: "_posts/news"
+    values:
+      category: "news"
+      permalink: /:categories/:year/:month/:day/:title
 
 gems:
     - jekyll-redirect-from

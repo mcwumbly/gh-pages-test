@@ -1,14 +1,34 @@
+{% if page.title %}
+  {% assign title = page.title %}
+{% else %}
+  {% assign title = site.title %}
+{% endif %}
+{% if page.description %}
+  {% assign description = page.description %}
+{% else %}
+  {% if page.opening %}
+    {% assign description = page.show_type | append: ' opening ' | append: page.opening | append: ', on view ' | append:  page.on_view | append:  ' at ' | append: page.venue | append:  ' in ' | append: page.location %}
+  {% else %}
+    {% assign description = site.description %}
+  {% endif %}
+{% endif %}
+{% if page.image_url %}
+  {% assign image_url = page.image_url %}
+{% else %}
+  {% assign image_url = site.posts.first.image_url %}
+{% endif %}
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="{{ site.description }}">
-<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+<meta name="description" content="{{ description }}">
+<title>{{ title }}</title>
 <meta property="og:url" content="{{ '/' | prepend: page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-<meta property="og:description" content="{{ site.description }}">
-<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta property="og:description" content="{{ description }}">
+<meta property="og:title" content="{{ title }}">
 <meta property="og:site_name" content="{{ site.title }}">
-<meta property="og:image" content="{{ site.posts.first.image_url | prepend: site.baseurl | prepend: site.url }}">
+<meta property="og:image" content="{{ image_url | prepend: site.baseurl | prepend: site.url }}">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@enelojial">
 <meta name="twitter:creator" content="@enelojial">
-<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-<meta name="twitter:description" content="{{ site.description }}">
-<meta name="twitter:image" content="{{ site.posts.first.image_url | prepend: site.baseurl | prepend: site.url }}">
+<meta name="twitter:title" content="{{ title }}">
+<meta name="twitter:description" content="{{ description }}">
+<meta name="twitter:image" content="{{ image_url | prepend: site.baseurl | prepend: site.url }}">
