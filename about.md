@@ -19,6 +19,10 @@ redirect_from: /about.html
 
 ## Solo Exhibitions
 
+### 2017
+
+- *Beside You*, Thinkspace Art Gallery, USA
+
 ### 2014
 
 - *Play*, Thinkspace Art Gallery, USA
