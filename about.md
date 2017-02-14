@@ -37,6 +37,10 @@ redirect_from: /about.html
 
 ## Group Exhibitions
 
+### 2017
+
+- *Pow! Wow! Hawai'i*, Honolulu Museum of Art School, USA (Thinkspace Art Gallery)
+
 ### 2016
 
 - *SCOPE Miami Beach*, SCOPE Pavilion, USA (Thinkspace Art Gallery)
