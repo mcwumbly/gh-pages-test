@@ -39,7 +39,7 @@ redirect_from: /about.html
 
 ### 2017
 
-- *Pow! Wow! Hawai'i*, Honolulu Museum of Art School, USA (Thinkspace Art Gallery)
+- *Pow! Wow! Exploring The New Contemporary Movement*, Honolulu Museum of Art School, USA (Thinkspace Art Gallery)
 
 ### 2016
 
