@@ -9,6 +9,6 @@ location: Honolulu
 link: http://thinkspacegallery.com/shows/powwowhawaii-2017/
 image_url:
 date: 2017-02-12 09:00:00
-current: true
+current: false
 tags: news
 ---
