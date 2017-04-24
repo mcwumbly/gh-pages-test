@@ -9,6 +9,6 @@ location: Los Angeles
 link: http://thinkspacegallery.com/shows/jolenelai-2017/show-pieces/
 image_url: /images/news/beside-you.jpg
 date: 2017-02-04 09:00:00
-current: true
+current: false
 tags: news
 ---
