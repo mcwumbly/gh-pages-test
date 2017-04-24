@@ -1,4 +1,4 @@
-									---
+---
 layout: artwork
 title: Sam and Sam
 media: Oil and Acrylic
