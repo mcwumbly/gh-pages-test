@@ -39,6 +39,7 @@ redirect_from: /about.html
 
 ### 2017
 
+- *Flourish*, Mesa Contemporary Arts Museum, USA (Thinkspace Art Gallery)
 - *Juxtapozed*, Fort Wayne Museum of Art, USA (Thinkspace Art Gallery)
 - *Pow! Wow! Exploring The New Contemporary Movement*, Honolulu Museum of Art School, USA (Thinkspace Art Gallery)
 
