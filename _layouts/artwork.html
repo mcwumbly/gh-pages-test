@@ -17,18 +17,18 @@ layout: artwork-base
     {% endif %}
 {% endfor %}
 
-{% for illustration in site.tags.illustrations %}
-    {% if illustration.url == page.url %}
-        {% assign illustration_index0 = forloop.index0 %}
-        {% assign illustration_index1 = forloop.index %}
+{% for drawing in site.tags.drawings %}
+    {% if drawing.url == page.url %}
+        {% assign drawing_index0 = forloop.index0 %}
+        {% assign drawing_index1 = forloop.index %}
     {% endif %}
 {% endfor %}
-{% for illustration in site.tags.illustrations %}
-    {% if illustration_index0 == forloop.index %}
-        {% assign next_artwork = illustration.url %}
+{% for drawing in site.tags.drawings %}
+    {% if drawing_index0 == forloop.index %}
+        {% assign next_artwork = drawing.url %}
     {% endif %}
-    {% if illustration_index1 == forloop.index0 %}
-        {% assign prev_artwork = illustration.url %}
+    {% if drawing_index1 == forloop.index0 %}
+        {% assign prev_artwork = drawing.url %}
     {% endif %}
 {% endfor %}
 

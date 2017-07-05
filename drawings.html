@@ -1,11 +1,12 @@
 ---
 layout: default
-permalink: /illustrations/
+permalink: /drawings/
+redirect_from: /illustrations/
 ---
 
 <body>
   <div class="row">
-    {% for post in site.tags.illustrations %}
+    {% for post in site.tags.drawings%}
       <a href="{{ post.url | prepend: site.baseurl }}">
         <div class="col" style="background-image: url(
           {% if post.image_thumb_url %}

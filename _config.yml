@@ -2,7 +2,7 @@
 title: Jolene Lai - Fine Artist
 email: enelojial@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Paintings and Illustrations by Jolene Lai
+  Paintings and Drawings by Jolene Lai
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.enelojial.com" # the base hostname & protocol for your site
 twitter_username: enelojial
@@ -16,9 +16,9 @@ future: true
 defaults:
   -
     scope:
-      path: "_posts/illustrations"
+      path: "_posts/drawings"
     values:
-      category: "illustrations"
+      category: "drawings"
   -
     scope:
       path: "_posts/paintings"
