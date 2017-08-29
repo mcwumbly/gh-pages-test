@@ -9,6 +9,6 @@ location: Indiana
 link: http://thinkspacegallery.com/shows/juxtapozed-2017/show-pieces/
 image_url:
 date: 2017-04-21 07:00:00
-current: true
+current: false
 tags: news
 ---
