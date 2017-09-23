@@ -53,7 +53,7 @@ layout: artwork-base
       <p class="title" property="name">{{ page.title }}</p>
       <p class="description">
         <span property="material">{{ page.media }}</span> on
-        <span property="surface">{{page.surface }}</span>  &bull;
+        <span property="surface">{{page.surface }}</span>   &bull;
         <span property="width">{{ page.width }}"</span> x
         <span property="height">{{ page.height }}"</span>   &bull;
         <span property="copyrightHolder" vocab="http://schema.org" typeof="Person">
@@ -61,7 +61,14 @@ layout: artwork-base
             <span property="name">Jolene Lai</span>
           </a>
         </span>   &bull;
-        <span property="copyrightYear">{{ page.date | date: "%Y" }}</span>
+        <span property="copyrightYear">
+          {{ page.date | date: "%Y" }}
+        {% if page.available_url %}
+        </span>   &bull;
+        <a href="{{page.available_url}}" class="available">Available</a>
+        {% else %}
+        </span>
+        {% endif %}
       </p>
     </div>
   </div>
