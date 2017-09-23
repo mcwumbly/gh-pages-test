@@ -9,4 +9,5 @@ image_url: /images/paintings/the-conjure.jpg
 image_thumb_url: /images/thumbnails/paintings/the-conjure.jpg
 date:   2016-12-06
 tags: paintings thinkspace beside-you 2017 solo
+available_url: http://thinkspacegallery.com/artists/jolene-lai/
 ---

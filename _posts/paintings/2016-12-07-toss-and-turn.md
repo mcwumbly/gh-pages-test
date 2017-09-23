@@ -9,4 +9,5 @@ image_url: /images/paintings/toss-and-turn.jpg
 image_thumb_url: /images/thumbnails/paintings/toss-and-turn.jpg
 date:   2016-12-07
 tags: paintings thinkspace beside-you 2017 solo
+available_url: http://thinkspacegallery.com/artists/jolene-lai/
 ---
