@@ -39,7 +39,7 @@ redirect_from: /about.html
 
 ### 2018
 
-- *POW! WOW! Exploring The New Contemporary Art Movement*, Honolulu Museum of Art School, USA (Thinkspace Art Gallery)
+- *Pow! Wow! Exploring The New Contemporary Art Movement*, Honolulu Museum of Art School, USA (Thinkspace Art Gallery)
 
 ### 2017
 
