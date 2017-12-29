@@ -9,6 +9,6 @@ location: WOW X WOW Gallery
 link: https://wowxwow.com/upcoming-exhibition
 image_url:
 date: 2017-09-01 07:00:00
-current: true
+current: false
 tags: news
 ---
