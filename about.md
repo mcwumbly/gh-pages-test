@@ -37,6 +37,10 @@ redirect_from: /about.html
 
 ## Group Exhibitions
 
+### 2018
+
+- *POW! WOW! Exploring The New Contemporary Art Movement*, Honolulu Museum of Art School, USA (Thinkspace Art Gallery)
+
 ### 2017
 
 - *Room of a Thousand Doors*, WOW X WOW Gallery, (WOW X WOW Gallery)
