@@ -21,13 +21,13 @@
 }
 
 @mixin mobile-portrait() {
-  @media all and (max-width: 415px) {
+  @media all and (max-width: 600px) {
     @content;
   }
 }
 
 @mixin mobile-landscape() {
-  @media all and (max-height: 415px) and (min-width: 400px) {
+  @media all and (max-height: 600px) and (min-width: 600px) {
     @content;
   }
 }
