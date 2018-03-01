@@ -1,6 +1,6 @@
 ---
 layout: artwork
-title: Prized Comb
+title: Prized Comb (Study)
 media: Graphite
 surface: Paper
 width: 6
