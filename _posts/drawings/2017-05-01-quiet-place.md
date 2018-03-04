@@ -1,6 +1,6 @@
 ---
 layout: artwork
-title: Quiet Place
+title: Quiet Place (Study)
 media: Graphite
 surface: Paper
 width: 4.7
