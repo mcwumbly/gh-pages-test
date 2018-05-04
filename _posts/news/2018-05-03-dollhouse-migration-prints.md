@@ -1,6 +1,6 @@
 ---
 layout: news-item
-title: Dollhouse & Migration Prints
+title: Dollhouse & Migration
 show_type: Limited Edition Prints
 opening: Thursday, May 3rd, 1PM (PST)
 on_view: May 3rd, 2018
