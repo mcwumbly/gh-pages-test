@@ -38,7 +38,7 @@ redirect_from: /about.html
 ## Group Exhibitions
 
 ### 2018
-
+- *Infinite Well*, Gallery Nucleus Portland, USA
 - *Pow! Wow! Exploring The New Contemporary Art Movement*, Honolulu Museum of Art School, USA (Thinkspace Art Gallery)
 
 ### 2017
