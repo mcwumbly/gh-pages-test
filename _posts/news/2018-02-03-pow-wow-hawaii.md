@@ -9,6 +9,6 @@ location: Honolulu
 link: http://thinkspaceprojects.com/shows/pow-wow-exploring-the-new-contemporary-art-movement-2018/show-pieces/
 image_url:
 date: 2018-02-03 07:00:00
-current: true
+current: false
 tags: news
 ---
