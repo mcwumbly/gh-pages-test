@@ -1,0 +1,14 @@
+---
+layout: news-item
+title: Small Works 2018
+show_type: Group Exhibition
+opening: Friday, July 14th
+on_view: July 14th - August 5th, 2018
+venue: beinArt Gallery
+location: Australia
+link: https://beinart.org/
+image_url:
+date: 2018-07-14 07:00:00
+current: true
+tags: news
+---
