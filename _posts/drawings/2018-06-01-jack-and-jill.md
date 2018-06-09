@@ -1,7 +1,7 @@
 ---
 layout: artwork
 title: Jack and Jill
-media: Graphite
+media: Mixed Media
 surface: Paper
 width: 6
 height: 8
