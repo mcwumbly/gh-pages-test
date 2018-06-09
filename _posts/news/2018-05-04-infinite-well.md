@@ -9,6 +9,6 @@ location: Oregon
 link: https://nucleusportland.com/
 image_url:
 date: 2018-05-04 07:00:00
-current: true
+current: false
 tags: news
 ---
