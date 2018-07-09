@@ -6,7 +6,7 @@ opening: Friday, July 14th
 on_view: July 14th - August 5th, 2018
 venue: beinArt Gallery
 location: Australia
-link: https://beinart.org/
+link: https://beinart.org/small-works-2018-group-show-with-over-70-artists/
 image_url:
 date: 2018-07-14 07:00:00
 current: true
