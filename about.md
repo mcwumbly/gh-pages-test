@@ -39,6 +39,7 @@ redirect_from: /about.html
 
 ### 2018
 
+- *Small Works*, Beinart Gallery, Australia
 - *SCOPE Basel*, SCOPE Basel Pavilion, Switzerland (Thinkspace Art Gallery)
 - *Infinite Well*, Gallery Nucleus Portland, USA
 - *Pow! Wow! Exploring The New Contemporary Art Movement*, Honolulu Museum of Art School, USA (Thinkspace Art Gallery)
