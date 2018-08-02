@@ -1,6 +1,6 @@
 ---
 layout: news-item
-title: Fullerton Museum Center
+title: Short Stories
 show_type: Solo Exhibition
 opening: Saturday, August 25th
 on_view: August 25th - October 21st, 2018
