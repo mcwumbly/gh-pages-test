@@ -9,6 +9,6 @@ location: Australia
 link: https://shop.beinart.org/collections/small-works-2018-group-show-with-over-70-artists
 image_url:
 date: 2018-07-14 07:00:00
-current: true
+current: false
 tags: news
 ---
