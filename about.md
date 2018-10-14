@@ -39,6 +39,7 @@ redirect_from: /about.html
 
 ### 2018
 
+- *Beyond The Untold*, WOW X WOW Gallery, (WOW X WOW Gallery)
 - *Short Stories*, Fullerton Museum Center, Fullerton (Thinkspace Art Gallery)
 - *Small Works*, Beinart Gallery, Australia
 - *SCOPE Basel*, SCOPE Basel Pavilion, Switzerland (Thinkspace Art Gallery)
