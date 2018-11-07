@@ -39,52 +39,54 @@ redirect_from: /about.html
 
 ### 2018
 
+- *Elysium*, Thinkspace Projects, USA 
+- *New Vanguard II*, The Lancaster Museum of Art and History, USA (Thinkspace Projects)
 - *Beyond The Untold*, WOW X WOW Gallery, (WOW X WOW Gallery)
-- *Short Stories*, Fullerton Museum Center, Fullerton (Thinkspace Art Gallery)
+- *Short Stories*, Fullerton Museum Center, USA (Thinkspace Projects)
 - *Small Works*, Beinart Gallery, Australia
-- *SCOPE Basel*, SCOPE Basel Pavilion, Switzerland (Thinkspace Art Gallery)
+- *SCOPE Basel*, SCOPE Basel Pavilion, Switzerland (Thinkspace Projects)
 - *Infinite Well*, Gallery Nucleus Portland, USA
-- *Pow! Wow! Exploring The New Contemporary Art Movement*, Honolulu Museum of Art School, USA (Thinkspace Art Gallery)
+- *Pow! Wow! Exploring The New Contemporary Art Movement*, Honolulu Museum of Art School, USA (Thinkspace Projects)
 
 ### 2017
 
 - *Room of a Thousand Doors*, WOW X WOW Gallery, (WOW X WOW Gallery)
-- *Flourish*, Mesa Contemporary Arts Museum, USA (Thinkspace Art Gallery)
-- *Juxtapozed*, Fort Wayne Museum of Art, USA (Thinkspace Art Gallery)
-- *Pow! Wow! Exploring The New Contemporary Movement*, Honolulu Museum of Art School, USA (Thinkspace Art Gallery)
+- *Flourish*, Mesa Contemporary Arts Museum, USA (Thinkspace Projects)
+- *Juxtapozed*, Fort Wayne Museum of Art, USA (Thinkspace Projects)
+- *Pow! Wow! Exploring The New Contemporary Movement*, Honolulu Museum of Art School, USA (Thinkspace Projects)
 
 ### 2016
 
-- *SCOPE Miami Beach*, SCOPE Pavilion, USA (Thinkspace Art Gallery)
-- *SCOPE New York*, SCOPE Pavilion, USA (Thinkspace Art Gallery)
+- *SCOPE Miami Beach*, SCOPE Pavilion, USA (Thinkspace Projects)
+- *SCOPE New York*, SCOPE Pavilion, USA (Thinkspace Projects)
 
 ### 2015
 
-- *LAX/LHR*, StolenSpace Gallery, United Kingdom (Thinkspace Art Gallery)
-- *Invisible College at the Fort Wayne Museum Of Art*, Fort Wayne Museum of Art, USA (Thinkspace Art Gallery)
-- *LAX/DTW*, Inner State Gallery, USA (Thinkspace Art Gallery)
-- *SCOPE New York*, SCOPE Pavilion, USA (Thinkspace Art Gallery)
+- *LAX/LHR*, StolenSpace Gallery, United Kingdom (Thinkspace Projects)
+- *Invisible College at the Fort Wayne Museum Of Art*, Fort Wayne Museum of Art, USA (Thinkspace Projects)
+- *LAX/DTW*, Inner State Gallery, USA (Thinkspace Projects)
+- *SCOPE New York*, SCOPE Pavilion, USA (Thinkspace Projects)
 - *Art Stage Singapore*, Marina Bay Sands, Singapore (Galerie Sogan & Art)
-- *La Familia*, Thinkspace Art Gallery, USA
+- *La Familia*, Thinkspace Projects, USA
 
 ### 2014
 
-- *SCOPE Miami Beach*, SCOPE Pavilion, USA (Thinkspace Art Gallery)
+- *SCOPE Miami Beach*, SCOPE Pavilion, USA (Thinkspace Projects)
 - *Art Taipei*, Tapei World Trade Center, Taiwan (Galerie Sogan & Art)
-- *LAX/TXL*, Buelowstrasse 97, Germany (Thinkspace Art Gallery)
+- *LAX/TXL*, Buelowstrasse 97, Germany (Thinkspace Projects)
 - *Nocturne: Art Stage Singapore SEA Platform*, Marina Bay Sands, Singapore (Galerie Sogan & Art)
 
 ### 2013
 
-- *SCOPE Miami Beach*, SCOPE Pavilion, USA (Thinkspace Art Gallery)
-- *Beyond Eden: Wild at Heart II*, LA Municipal Art Gallery, USA (Thinkspace Art Gallery)
+- *SCOPE Miami Beach*, SCOPE Pavilion, USA (Thinkspace Projects)
+- *Beyond Eden: Wild at Heart II*, LA Municipal Art Gallery, USA (Thinkspace Projects)
 
 ### 2012
 
 - *Affordable Art Fair*, F1 Pit Building, Singapore (Galerie Sogan & Art)
-- *Wild at Heart: Keep Wildlife in the Wild*, Thinkspace Art Gallery, USA
-- *Synergy*, Spoke Art Gallery, USA (Thinkspace Art Gallery)
-- *Picks of the Harvest*, Thinkspace Art Gallery, USA
+- *Wild at Heart: Keep Wildlife in the Wild*, Thinkspace Projects, USA
+- *Synergy*, Spoke Art Gallery, USA (Thinkspace Projects)
+- *Picks of the Harvest*, Thinkspace Projects, USA
 
 ### 2011
 
