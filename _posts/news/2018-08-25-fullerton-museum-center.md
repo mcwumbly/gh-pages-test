@@ -9,6 +9,6 @@ location: Fullerton, CA
 link: https://thinkspaceprojects.com/shows/jolenelai-fullerton-museum-2018/show-pieces/
 image_url:
 date: 2018-08-25 06:00:00
-current: true
+current: false
 tags: news
 ---

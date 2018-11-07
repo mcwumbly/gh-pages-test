@@ -9,6 +9,6 @@ location: WOW X WOW
 link: https://wowxwow.com/shop/beyond-the-untold/martin-jolene-lai
 image_url:
 date: 2018-10-05 06:00:00
-current: true
+current: false
 tags: news
 ---
