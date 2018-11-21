@@ -1,4 +1,3 @@
-
 ---
 layout: artwork
 title: Tomodachi
