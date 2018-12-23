@@ -39,6 +39,7 @@ redirect_from: /about.html
 
 ### 2018
 
+- *SCOPE Miami Beach*, SCOPE Pavilion, USA (Thinkspace Projects)
 - *Elysium*, Thinkspace Projects, USA 
 - *New Vanguard II*, The Lancaster Museum of Art and History, USA (Thinkspace Projects)
 - *Beyond The Untold*, WOW X WOW Gallery, (WOW X WOW Gallery)

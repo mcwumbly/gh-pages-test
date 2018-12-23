@@ -9,6 +9,6 @@ location: Miami
 link: https://thinkspaceprojects.com/shows/scope-miami-beach-2018/
 image_url:
 date: 2018-12-04 12:00:00
-current: true
+current: false
 tags: news
 ---
