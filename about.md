@@ -37,6 +37,11 @@ redirect_from: /about.html
 
 ## Group Exhibitions
 
+### 2019
+
+- *Pow! Wow! Exploring The New Contemporary Art Movement VI*, Honolulu, USA (Thinkspace Projects)
+- *Convergence*, Rubin Center for the Visual Arts, USA (Thinkspace Projects)
+
 ### 2018
 
 - *SCOPE Miami Beach*, SCOPE Pavilion, USA (Thinkspace Projects)

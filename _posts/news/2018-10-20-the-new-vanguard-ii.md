@@ -9,6 +9,6 @@ location: Antelope Valley
 link: https://thinkspaceprojects.com/shows/the-new-vanguard-ii-2018/
 image_url:
 date: 2018-10-20 06:00:00
-current: true
+current: false
 tags: news
 ---
