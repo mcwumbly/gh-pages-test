@@ -1,6 +1,6 @@
 ---
 layout: news-item
-title: Small Works 2018
+title: Small Works 2019
 show_type: Group Exhibition
 opening: Saturday, June 1st, 6-9PM
 on_view: June 1st - June 23rd, 2019
