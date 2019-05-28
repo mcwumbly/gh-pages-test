@@ -39,6 +39,7 @@ redirect_from: /about.html
 
 ### 2019
 
+- *Small Works*, Beinart Gallery, Australia
 - *Pow! Wow! Exploring The New Contemporary Art Movement VI*, Honolulu, USA (Thinkspace Projects)
 - *Convergence*, Rubin Center for the Visual Arts, USA (Thinkspace Projects)
 
