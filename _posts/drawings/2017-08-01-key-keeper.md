@@ -1,6 +1,6 @@
 ---
 layout: artwork
-title: Key Keeper
+title: Key Keeper (Study)
 media: Graphite
 surface: Paper
 width: 4.7

@@ -1,6 +1,6 @@
 ---
 layout: artwork
-title: Tomodachi
+title: Tomodachi (Study)
 media: Graphite
 surface: Paper
 width: 6
