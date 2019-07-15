@@ -9,6 +9,6 @@ location: Australia
 link: https://shop.beinart.org/collections/small-works-2019/products/jolene-lai-levitate-oil-on-wood-panel-20-3x20-3cm-8x8
 image_url:
 date: 2019-06-01 06:00:00
-current: true
+current: false
 tags: news
 ---

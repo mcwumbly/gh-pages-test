@@ -9,6 +9,6 @@ location: San Francisco
 link: https://thinkspaceprojects.com/shows/lax-sfo-iii/show-pieces/
 image_url:
 date: 2019-06-15 06:00:00
-current: true
+current: false
 tags: news
 ---
