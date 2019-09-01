@@ -31,7 +31,7 @@ defaults:
       category: "news"
       permalink: /:categories/:year/:month/:day/:title
 
-gems:
+plugins:
     - jekyll-redirect-from
     - jekyll-sitemap
 
