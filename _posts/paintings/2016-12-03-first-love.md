@@ -10,4 +10,5 @@ image_thumb_url: /images/thumbnails/paintings/first-love.jpg
 date:   2016-12-03
 tags: paintings thinkspace beside-you 2017 solo
 available_url: http://thinkspacegallery.com/artists/jolene-lai/
+price: $2400
 ---

@@ -10,4 +10,5 @@ image_thumb_url: /images/thumbnails/paintings/lost-and-found.jpg
 date:   2017-05-12
 tags: paintings thinkspace flourish 2017 mesa-contemporary-arts-museum arizona
 available_url: http://thinkspacegallery.com/artists/jolene-lai/
+price: $3500
 ---

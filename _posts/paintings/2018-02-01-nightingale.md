@@ -10,4 +10,5 @@ image_thumb_url: /images/thumbnails/paintings/nightingale.jpg
 date:   2018-02-01
 tags: paintings pow-wow thinkspace nightingale
 available_url: http://thinkspacegallery.com/artists/jolene-lai/
+price: $3500
 ---

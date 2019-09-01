@@ -1,0 +1,20 @@
+---
+layout: default
+permalink: /store/
+---
+
+<div class="news">
+  <h1>Limited Edition Prints</h1>
+  {% for post in site.tags.store reversed %}
+    {% include store-item.html %}
+  {% endfor %}
+</div>
+
+<div class="news">
+  <h1>Original Art</h1>
+  {% for post in site.tags.paintings reversed %}
+  {% if post.available_url %}
+    {% include store-item.html %}
+  {% endif %}
+  {% endfor %}
+</div>
