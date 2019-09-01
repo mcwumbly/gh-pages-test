@@ -2,8 +2,6 @@
 layout: news-item
 title: Dollhouse & Migration
 show_type: Limited Edition Prints
-opening: Thursday, May 3rd, 1PM (PST)
-on_view: May 3rd, 2018
 venue: The People's Print Shop
 location: Berkeley
 link: https://www.thepeoplesprintshop.com/collections/jolene-lai

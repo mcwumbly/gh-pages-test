@@ -4,8 +4,12 @@
   </a>
 
   <p>
+    {% if post.opening %}
   Opening reception: {{ post.opening "}}<br/>
+    {% endif %}
+    {% if post.on_view%}
   On view: {{ post.on_view }}<br/>
+    {% endif %}
   <a href="{{ post.link }}" target="_blank">
     {{ post.venue }}
   </a>, {{ post.location }}
