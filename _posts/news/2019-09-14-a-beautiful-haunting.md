@@ -7,7 +7,7 @@ on_view: September 14th - October 5th, 2019
 venue: Thinkspace Projects
 location: Los Angeles
 link: https://thinkspaceprojects.com/shows/a-beautiful-hauntingmain/
-image_url:
+image_url: /images/news/a-beautiful-haunting.jpg
 date: 2019-09-14 06:00:00
 current: true
 tags: news
