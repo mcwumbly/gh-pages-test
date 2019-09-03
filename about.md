@@ -21,7 +21,7 @@ redirect_from: /about.html
 
 ### 2019
 
-- *A Beautiful Haunting*, Thinkspace Projects, USA
+- *A beautiful Haunting*, Thinkspace Projects, USA
 
 ### 2017
 
