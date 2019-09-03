@@ -9,6 +9,6 @@ location: Long Beach
 link: https://thinkspaceprojects.com/shows/thinkspace-x-pow-wow-long-beach/show-pieces/
 image_url:
 date: 2019-07-21 06:00:00
-current: true
+current: false
 tags: news 
 ---

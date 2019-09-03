@@ -19,17 +19,21 @@ redirect_from: /about.html
 
 ## Solo Exhibitions
 
+### 2019
+
+- *A beautiful Haunting*, Thinkspace Projects, USA
+
 ### 2017
 
-- *Beside You*, Thinkspace Art Gallery, USA
+- *Beside You*, Thinkspace Projects, USA
 
 ### 2014
 
-- *Play*, Thinkspace Art Gallery, USA
+- *Play*, Thinkspace Projects, USA
 
 ### 2013
 
-- *After Midnight*, Thinkspace Art Gallery, USA
+- *After Midnight*, Thinkspace Projects, USA
 
 ### 2012
 
@@ -39,6 +43,7 @@ redirect_from: /about.html
 
 ### 2019
 
+- *The 14th Annual BLAB! Show*, Copro Gallery, USA
 - *Pow! Wow! Movement*, Long Beach, USA (Thinkspace Projects)
 - *LAX/SFO Pt.III*, Heron Arts, USA (Thinkspace Projects)
 - *Small Works*, Beinart Gallery, Australia
