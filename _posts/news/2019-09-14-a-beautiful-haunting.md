@@ -10,5 +10,5 @@ link: https://thinkspaceprojects.com/shows/jolenelai-2019/show-pieces/?preview=e
 image_url: /images/news/a-beautiful-haunting.jpg
 date: 2019-09-14 06:00:00
 current: true
-tags: news
+tags: news a-beautiful-haunting
 ---
