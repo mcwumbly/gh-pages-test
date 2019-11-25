@@ -43,6 +43,8 @@ redirect_from: /about.html
 
 ### 2019
 
+- *Whispers Lead The Way*, WOW X WOW Gallery, (WOW X WOW Gallery)
+- *SCOPE Miami Beach*, SCOPE Pavilion, USA (Thinkspace Projects)
 - *The 14th Annual BLAB! Show*, Copro Gallery, USA
 - *Pow! Wow! Movement*, Long Beach, USA (Thinkspace Projects)
 - *LAX/SFO Pt.III*, Heron Arts, USA (Thinkspace Projects)
