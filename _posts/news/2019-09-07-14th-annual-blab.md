@@ -9,6 +9,6 @@ location: Los Angeles
 link: http://www.copronason.com/blab19/
 image_url:
 date: 2019-09-07 06:00:00
-current: true
+current: false
 tags: news
 ---
