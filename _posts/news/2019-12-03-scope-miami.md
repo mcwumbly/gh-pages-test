@@ -6,7 +6,7 @@ opening: Tuesday, December 3rd, 12-8PM
 on_view: December 3rd - December 8th, 2019
 venue: SCOPE Miami Beach Pavilion
 location: Miami
-link: https://thinkspaceprojects.com/shows/scope-miami-beach-2019/show-pieces/
+link: https://thinkspaceprojects.com/shows/scope-miami-beach-2019/
 date: 2019-12-03 12:00:00
 current: true
 tags: news scope-art-miami
