@@ -41,6 +41,10 @@ redirect_from: /about.html
 
 ## Group Exhibitions
 
+### 2020
+
+- *15 Years of Thinkspace*, Thinkspace Projects, USA
+
 ### 2019
 
 - *Whispers Lead The Way*, WOW X WOW Gallery, (WOW X WOW Gallery)
