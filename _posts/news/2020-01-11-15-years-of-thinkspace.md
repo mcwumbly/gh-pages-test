@@ -5,7 +5,7 @@ show_type: Group Exhibition
 opening: Saturday, January 11th
 on_view: January 11th - January 25th, 2020
 venue: Thinkspace Projects
-location: Thinkspace Projects
+location: Los Angeles
 link: https://thinkspaceprojects.com/
 image_url:
 date: 2020-01-11 06:00:00
