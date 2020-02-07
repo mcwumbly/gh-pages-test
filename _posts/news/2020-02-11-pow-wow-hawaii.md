@@ -1,6 +1,6 @@
 ---
 layout: news-item
-title: Test Title
+title: POW! WOW! Hawaii: The 7th Annual Exploring The New Contemporary Movement
 show_type: Group Exhibition
 opening: Tuesday, February 11th, 6-10PM
 on_view: February 11th - February 15th, 2020
