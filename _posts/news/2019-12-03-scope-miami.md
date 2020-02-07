@@ -8,6 +8,6 @@ venue: SCOPE Miami Beach Pavilion
 location: Miami
 link: https://thinkspaceprojects.com/shows/scope-miami-beach-2019/show-pieces/
 date: 2019-12-03 12:00:00
-current: true
+current: false
 tags: news scope-art-miami
 ---
