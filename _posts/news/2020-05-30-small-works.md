@@ -1,6 +1,6 @@
 ---
 layout: news-item
-title: Small Works 202020
+title: Small Works 2020
 show_type: Group Exhibition
 opening: Saturday, May 30th, 6-9PM
 on_view: May 30th - June 21st, 2020

@@ -9,6 +9,6 @@ location: Los Angeles
 link: https://thinkspaceprojects.com/shows/jolenelai-2019/show-pieces/?preview=eNE1oJ
 image_url: /images/news/a-beautiful-haunting.jpg
 date: 2019-09-14 06:00:00
-current: true
+current: false
 tags: news a-beautiful-haunting
 ---

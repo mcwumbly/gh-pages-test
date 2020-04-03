@@ -9,6 +9,6 @@ location: WOW X WOW Gallery
 link: https://wowxwow.com/product-category/whispers-lead-the-way
 image_url:
 date: 2019-12-06 06:00:00
-current: true
+current: false
 tags: news whispers-lead-the-way wow-x-wow
 ---
