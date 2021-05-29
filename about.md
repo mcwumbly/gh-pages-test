@@ -43,6 +43,7 @@ redirect_from: /about.html
 
 ### 2020
 
+- *Tapas*, Thinkspace Projects, USA
 - *Small Works*, Beinart Gallery, Australia
 - *Pow! Wow! Hawaii: The 7th Annual Exploring The New Contemporary Movement*, Honolulu, USA (Thinkspace Projects)
 - *15 Years of Thinkspace*, Thinkspace Projects, USA
