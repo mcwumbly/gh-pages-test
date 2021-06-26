@@ -9,6 +9,6 @@ location: Los Angeles
 link: https://thinkspaceprojects.com/shows/15-years-of-thinkspace/show-pieces/?preview=OG2009TS
 image_url:
 date: 2020-01-11 06:00:00
-current: true
+current: false
 tags: news thinkspace-projects
 ---

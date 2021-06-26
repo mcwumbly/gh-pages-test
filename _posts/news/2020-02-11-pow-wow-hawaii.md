@@ -9,6 +9,6 @@ location: Honolulu
 link: https://thinkspaceprojects.com/shows/pow-wow-hawaii-2020/show-pieces/
 image_url:
 date: 2020-02-11 06:00:00
-current: true
+current: false
 tags: news
 ---
