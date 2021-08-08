@@ -41,6 +41,11 @@ redirect_from: /about.html
 
 ## Group Exhibitions
 
+### 2021
+
+- *Stardust Antennas*, WOW X WOW Gallery, (WOW X WOW Gallery)
+
+
 ### 2020
 
 - *Tapas*, Thinkspace Projects, USA
