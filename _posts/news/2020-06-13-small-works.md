@@ -9,6 +9,6 @@ location: Australia
 link: https://beinart.org/blogs/art-blog/small-works-2020
 image_url:
 date: 2020-06-13 10:00:00
-current: true
+current: false
 tags: news beinart jolene-lai small-works
 ---

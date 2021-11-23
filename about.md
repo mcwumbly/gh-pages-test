@@ -43,6 +43,7 @@ redirect_from: /about.html
 
 ### 2021
 
+- *Labyrinth of Dreams*, WOW X WOW Gallery, (WOW X WOW Gallery)
 - *LAX/ORD III: Growing the Focus*, Vertical Gallery, USA (Thinkspace Projects)
 - *Stardust Antennas*, WOW X WOW Gallery, (WOW X WOW Gallery)
 
