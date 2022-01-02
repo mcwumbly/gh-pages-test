@@ -9,4 +9,6 @@ image_url: /images/drawings/waterfall.jpg
 image_thumb_url: /images/thumbnails/drawings/waterfall.jpg
 date: 2022-01-01 
 tags: drawings waterfall jolene-lai 
+available_url: https://jolenelaiart.bigcartel.com/product/waterfall
+price: $100
 ---
