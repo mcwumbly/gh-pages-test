@@ -41,6 +41,11 @@ redirect_from: /about.html
 
 ## Group Exhibitions
 
+### 2022
+
+- *Familiar Strangers*, WOW X WOW Gallery, (WOW X WOW Gallery)
+
+
 ### 2021
 
 - *Labyrinth of Dreams*, WOW X WOW Gallery, (WOW X WOW Gallery)
