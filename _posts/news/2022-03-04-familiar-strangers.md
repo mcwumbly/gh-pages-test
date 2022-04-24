@@ -6,7 +6,7 @@ opening: Friday, March 4th
 on_view: March 4th - March 25th, 2022
 venue: WOW X WOW Gallery
 location: WOW X WOW Gallery
-link: https://wowxwow.com/familiar-strangers
+link: https://wowxwow.com/shop/inventory/red-leash-by-jolene-lai
 image_url:
 date: 2022-03-04 06:00:00
 current: true
