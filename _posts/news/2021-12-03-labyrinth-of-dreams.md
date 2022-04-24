@@ -9,6 +9,6 @@ location: WOW X WOW Gallery
 link: https://wowxwow.com/labyrinth-of-dreams
 image_url:
 date: 2021-12-03 06:00:00
-current: true
+current: false
 tags: news labyrinth-of-dreams wow-x-wow
 ---

@@ -1,0 +1,14 @@
+---
+layout: news-item
+title: Small Works 2022
+show_type: Group Exhibition
+opening: Saturday, June 18th, 6-9 PM
+on_view: June 19th - July 10th, 2022
+venue: beinArt Gallery
+location: Australia
+link: https://beinart.org/
+image_url:
+date: 2022-06-18 
+current: true
+tags: news beinart jolene-lai small-works
+---

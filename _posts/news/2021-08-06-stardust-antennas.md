@@ -9,6 +9,6 @@ location: WOW X WOW Gallery
 link: https://wowxwow.com/stardust-antennas
 image_url:
 date: 2021-08-06 06:00:00
-current: true
+current: false
 tags: news wow-x-wow jolene-lai stardust-antennas
 ---
