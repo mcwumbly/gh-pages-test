@@ -42,7 +42,7 @@ redirect_from: /about.html
 ## Group Exhibitions
 
 ### 2022
-
+- *Small Works*, Beinart Gallery, Australia
 - *Familiar Strangers*, WOW X WOW Gallery, (WOW X WOW Gallery)
 
 

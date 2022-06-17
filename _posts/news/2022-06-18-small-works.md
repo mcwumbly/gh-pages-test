@@ -6,9 +6,9 @@ opening: Saturday, June 18th, 6-9 PM
 on_view: June 19th - July 10th, 2022
 venue: beinArt Gallery
 location: Australia
-link: https://beinart.org/
+link: https://beinart.org/collections/small-works-2022/products/jolene-lai-philomela-oil-on-wood
 image_url:
 date: 2022-06-18 
 current: true
-tags: news beinart jolene-lai small-works
+tags: news beinart jolene-lai small-works philomela
 ---
