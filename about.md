@@ -42,6 +42,7 @@ redirect_from: /about.html
 ## Group Exhibitions
 
 ### 2022
+- *Vanguard*, Outré Gallery, Australia
 - *Small Works*, Beinart Gallery, Australia
 - *Familiar Strangers*, WOW X WOW Gallery, (WOW X WOW Gallery)
 

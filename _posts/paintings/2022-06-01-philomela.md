@@ -9,6 +9,4 @@ image_url: /images/paintings/philomela.jpg
 image_thumb_url: /images/thumbnails/paintings/philomela.jpg
 date:   2022-06-18
 tags: paintings philomela jolene-lai beinart-gallery
-available_url: https://beinart.org/collections/small-works-2022/products/jolene-lai-philomela-oil-on-wood
-price: AUD$2100
 ---
