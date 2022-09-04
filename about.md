@@ -43,8 +43,8 @@ redirect_from: /about.html
 
 ### 2022
 
-- *Amplify*, Thinkspace Projects, USA
 - *Vanguard*, Outré Gallery, Australia
+- *Amplify*, Thinkspace Projects, USA
 - *Small Works*, Beinart Gallery, Australia
 - *Familiar Strangers*, WOW X WOW Gallery, (WOW X WOW Gallery)
 
