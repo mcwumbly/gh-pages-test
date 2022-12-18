@@ -9,6 +9,6 @@ location: WOW X WOW Gallery
 link: https://wowxwow.com/shop/inventory/red-leash-by-jolene-lai
 image_url:
 date: 2022-03-04 06:00:00
-current: true
+current: false
 tags: news familiar-strangers wow-x-wow
 ---

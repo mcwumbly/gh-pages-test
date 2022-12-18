@@ -41,6 +41,9 @@ redirect_from: /about.html
 
 ## Group Exhibitions
 
+### 2023
+- *NEXUS IV: RAIZ*, The Brand Library and Arts Center, USA (Thinkspace Projects)
+
 ### 2022
 
 - *Vanguard*, Outré Gallery, Australia
