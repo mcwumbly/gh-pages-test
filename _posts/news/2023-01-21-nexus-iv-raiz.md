@@ -2,8 +2,8 @@
 layout: news-item
 title: NEXUS IV - RAIZ
 show_type: Group Exhibition
-opening: Saturday, January 21st
-on_view: January 21st - March 17th, 2023
+opening: Saturday, Jan 21st
+on_view: Jan 21st - Mar 17th, 2023
 venue: The Brand Library and Arts Center
 location: The Brand Library and Arts Center
 link: https://thinkspaceprojects.com/
