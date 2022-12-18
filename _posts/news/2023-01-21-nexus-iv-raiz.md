@@ -1,6 +1,6 @@
 ---
 layout: news-item
-title: NEXUS IV: RAIZ
+title: NEXUS IV - RAIZ
 show_type: Group Exhibition
 opening: Saturday, January 21st
 on_view: January 21st - March 17th, 2023
@@ -12,3 +12,4 @@ date: 2023-01-21 04:00:00
 current: true
 tags: news nexus-iv-raiz thinkspace-projects
 ---
+ 
