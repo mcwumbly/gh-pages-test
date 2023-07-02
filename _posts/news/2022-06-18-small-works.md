@@ -9,6 +9,6 @@ location: Australia
 link: https://beinart.org/collections/small-works-2022/products/jolene-lai-philomela-oil-on-wood
 image_url:
 date: 2022-06-18 
-current: true
+current: false
 tags: news beinart jolene-lai small-works philomela
 ---

@@ -9,6 +9,6 @@ location: Australia
 link: https://www.outregallery.com/
 image_url:
 date: 2022-09-09 
-current: true
+current: false
 tags: news Outré jolene-lai vanguard captain-heart
 ---
