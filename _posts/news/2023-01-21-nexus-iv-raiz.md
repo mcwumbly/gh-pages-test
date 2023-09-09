@@ -9,7 +9,7 @@ location: Los Angeles
 link: https://thinkspaceprojects.com/shows/raiz-nexus-iv-2023/show-pieces/
 image_url:
 date: 2023-01-21 04:00:00
-current: true
+current: false
 tags: news nexus-iv-raiz thinkspace-projects
 ---
  
