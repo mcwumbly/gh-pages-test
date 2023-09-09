@@ -6,7 +6,7 @@ opening: Saturday, Sep 16th
 on_view: Sep 17th 2023
 venue: beinart Gallery
 location: Australia
-link: https://beinart.org/
+link: https://beinart.org/blogs/art-blog/small-works-2023
 image_url:
 date: 2023-09-16 06:00:00
 current: true
