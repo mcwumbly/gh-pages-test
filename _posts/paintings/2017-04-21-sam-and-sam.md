@@ -9,6 +9,6 @@ image_url: /images/paintings/sam-and-sam.jpg
 image_thumb_url: /images/thumbnails/paintings/sam-and-sam.jpg
 date:   2017-04-21
 tags: paintings thinkspace juxtapozed 2017 fort-wayne-museum-of-art indiana
-available_url: 
+available_url: https://www.jolenelaiart.com/contact/
 price: $3400
 ---
