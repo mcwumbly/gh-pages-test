@@ -9,6 +9,6 @@ image_url: /images/paintings/nightwalker.jpg
 image_thumb_url: /images/thumbnails/paintings/nightwalker.jpg
 date:   2017-02-12
 tags: paintings thinkspace pow-wow-hawaii 2017 honolulu
-available_url: https://shop.thinkspaceprojects.com/collections/originals/products/jolene-lai-nightwalker
+available_url: https://www.jolenelaiart.com/contact/
 price: $1500
 ---
