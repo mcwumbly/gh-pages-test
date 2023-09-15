@@ -8,7 +8,7 @@ permalink: /contact/
   <div class="info">
     <div class="text">
       <p>To get updates about new work and upcoming exhibitions, sign up for my newsletter.</p>
-      <p>For other inquiries, email me at <span property="email">enelojial@gmail.com</span>.</p>
+      <p>For purchase or other inquiries, email me at <span property="email">enelojial@gmail.com</span>.</p>
     </div>
     <div class="logo">
       <img src="/images/enelojial.jpg" alt="enelojial hello fish logo">
