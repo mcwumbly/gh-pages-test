@@ -42,6 +42,8 @@ redirect_from: /about.html
 ## Group Exhibitions
 
 ### 2023
+- *Vanguard*, Outré Gallery, Australia
+- *Small Works*, Beinart Gallery, Australia
 - *Angels in the Architecture // Devils in the Detail*, Talon Gallery, USA
 - *NEXUS IV: RAIZ*, The Brand Library and Arts Center, USA (Thinkspace Projects)
 
