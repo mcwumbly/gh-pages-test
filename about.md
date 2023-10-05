@@ -10,7 +10,7 @@ redirect_from: /about.html
     <span property="name">
     <span property="givenName">Jolene</span>
     <span property="familyName">Lai</span></span>,
-    <span property="homeLocation">Los Angeles</span> based
+    <span property="homeLocation">Rhode Island</span> based
     <span property="jobTitle">Artist</span>. b.
     <span property="birthDate">1980</span>,
     <span property="birthPlace">Singapore</span>.
