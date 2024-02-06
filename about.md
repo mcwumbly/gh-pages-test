@@ -19,6 +19,10 @@ redirect_from: /about.html
 
 ## Solo Exhibitions
 
+### 2023
+
+- *Secret Garden*, Thinkspace Projects, USA
+
 ### 2019
 
 - *A Beautiful Haunting*, Thinkspace Projects, USA
@@ -40,6 +44,10 @@ redirect_from: /about.html
 - *Allegory*, Galerie Sogan & Art, Singapore
 
 ## Group Exhibitions
+
+### 2023
+- *Nerdstalgia*, Thinkspace Projects, USA
+
 
 ### 2023
 - *Vanguard*, Outré Gallery, Australia
