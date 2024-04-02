@@ -45,7 +45,8 @@ redirect_from: /about.html
 
 ## Group Exhibitions
 
-### 2023
+### 2024
+- *A Better Tomorrow*, Thinkspace Projects, USA
 - *Nerdstalgia*, Thinkspace Projects, USA
 
 
