@@ -9,7 +9,7 @@ location: Australia
 link: https://beinart.org/collections/small-works-2023/products/jolene-lai-abduction-oil-on-wood-panel
 image_url:
 date: 2023-09-16 06:00:00
-current: true
+current: false
 tags: news beinart-gallery small-works
 ---
  
