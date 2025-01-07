@@ -45,6 +45,11 @@ redirect_from: /about.html
 
 ## Group Exhibitions
 
+### 2025
+- *Aesop's Fables*, Haven Gallery, USA
+- *Perseverance*, Thinkspace Projects, USA
+
+
 ### 2024
 - *Vanguard*, Outré Gallery, Australia
 - *SMOL*, Thinkspace Projects, USA

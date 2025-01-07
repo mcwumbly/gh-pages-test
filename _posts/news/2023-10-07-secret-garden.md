@@ -9,6 +9,6 @@ location: Los Angeles
 link: https://thinkspaceprojects.com/shows/secret-garden-secret-garden-gallery-iv-2023/show-pieces/
 image_url: /images/news/secret-garden.jpg
 date: 2023-10-07 06:00:00
-current: true
+current: false
 tags: news secret-garden
 ---
