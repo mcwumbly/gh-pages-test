@@ -46,6 +46,7 @@ redirect_from: /about.html
 ## Group Exhibitions
 
 ### 2024
+- *Vanguard*, Outré Gallery, Australia
 - *SMOL*, Thinkspace Projects, USA
 - *A Better Tomorrow*, Thinkspace Projects, USA
 - *Nerdstalgia*, Thinkspace Projects, USA
