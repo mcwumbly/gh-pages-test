@@ -1,6 +1,6 @@
 ---
 layout: artwork
-title: Anywhere Door
+title: Moonlit Avenue
 media: Oil
 surface: Canvas
 width: 24

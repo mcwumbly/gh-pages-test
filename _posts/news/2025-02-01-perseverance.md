@@ -2,7 +2,7 @@
 layout: news-item
 title: Perseverance
 show_type: Group Exhibition
-opening: Friday, February 1st, 5-9PM
+opening: Saturday, February 1st, 5-9PM
 on_view: February 1st - March 29th, 2025
 venue: The Brand Library and Arts Center
 location: Glendale, California
